@@ -4,26 +4,6 @@ This project demonstrates the **Command Design Pattern** in Java by implementing
 
 ---
 
-## 🧱 Project Structure
-src/
-├── app/
-├── Main.java
-├── controller/
-│ └── ParkingController.java
-├── command/
-│ ├── Command.java  // Interface 
-│ ├── StartCommand.java
-│ ├── AccelerateCommand.java
-│ └── BrakeCommand.java
-├── model/
-│ ├── Vehicle.java // Interface 
-│ ├── Car.java
-│ ├── Bicycle.java
-│ ├── Plane.java
-│ └── Ship.java
-
----
-
 ## 🚘 Available Vehicles
 
 - Car 
